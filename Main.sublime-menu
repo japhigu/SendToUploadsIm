@@ -12,22 +12,22 @@
                 "children":
                 [
                     {
-                        "caption": "SendToPasteBin",
+                        "caption": "SendToUploadsIm",
                         "children":
                         [
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/SendToPasteBin/README.md"},
+                                "args": {"file": "${packages}/SendToUploadsIm/README.md"},
                                 "caption": "README"
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/SendToPasteBin/SendToPasteBin.sublime-settings"},
+                                "args": {"file": "${packages}/SendToUploadsIm/SendToUploadsIm.sublime-settings"},
                                 "caption": "Settings – Default"
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/User/SendToPasteBin.sublime-settings"},
+                                "args": {"file": "${packages}/User/SendToUploadsIm.sublime-settings"},
                                 "caption": "Settings – User"
                             }
                         ]

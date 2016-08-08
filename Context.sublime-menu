@@ -1,4 +1,4 @@
 [
-   { "caption": "Send selection to PasteBin", "command": "send_to_paste_bin" },
-   { "caption": "Send selection to PasteBin with custom name", "command": "send_to_paste_bin_prompt" }
+   { "caption": "Send selection to UploadsIm", "command": "send_to_paste_bin" },
+   { "caption": "Send selection to UploadsIm with custom name", "command": "send_to_paste_bin_prompt" }
 ]
